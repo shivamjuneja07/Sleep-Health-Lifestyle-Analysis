@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-This project delivers a **full-spectrum analytical narrative** on a Sleep Health & Lifestyle dataset of **374 individuals** across 13 health and lifestyle variables. As a business analyst, the goal was to go beyond surface-level exploration — to ask the *right* questions, apply rigorous statistical methods, and build a machine learning model capable of predicting sleep disorders from lifestyle data alone.
+This project delivers a **full-spectrum analytical narrative** on a Sleep Health & Lifestyle dataset of **374 individuals** across 13 health and lifestyle variables. As a business analyst, the goal was to go beyond surface-level exploration , to ask the *right* questions, apply rigorous statistical methods, and build a machine learning model capable of predicting sleep disorders from lifestyle data alone.
 
 The analysis is structured as a **story-driven report** in Jupyter Notebook, progressing from raw data to actionable executive recommendations.
 
@@ -33,7 +33,7 @@ The analysis is structured as a **story-driven report** in Jupyter Notebook, pro
 
 ## 📊 Key Findings
 
-> **42%** of the population has a clinically relevant sleep disorder — significantly above the ~30% general population baseline.
+> **42%** of the population has a clinically relevant sleep disorder , significantly above the ~30% general population baseline.
 
 ```
 🔴 Stress Level         → #1 differentiator between disorder groups (p < 0.001)
@@ -158,11 +158,11 @@ jupyter>=1.0.0
 > Best model: **Random Forest Classifier** with 200 estimators, 5-fold stratified cross-validation
 
 ### Top 5 Predictive Features
-1. **Quality of Sleep** — single strongest predictor
-2. **Stress Level** — direct lifestyle driver
-3. **BMI Category** — body composition proxy
-4. **Systolic Blood Pressure** — cardiovascular link
-5. **Occupation** — contextual lifestyle proxy
+1. **Quality of Sleep** | single strongest predictor
+2. **Stress Level** | direct lifestyle driver
+3. **BMI Category** | body composition proxy
+4. **Systolic Blood Pressure** | cardiovascular link
+5. **Occupation** | contextual lifestyle proxy
 
 ---
 
@@ -188,7 +188,7 @@ jupyter>=1.0.0
 
 ## 👤 About
 
-This project was built to demonstrate technically advanced, insight-driven business analysis — combining rigorous statistics, compelling visuals, and actionable ML predictions into a cohesive narrative.
+This project was built to demonstrate technically advanced, insight-driven business analysis , combining rigorous statistics, compelling visuals, and actionable ML predictions into a cohesive narrative.
 
 **Skills demonstrated:** Data Wrangling · Feature Engineering · Statistical Hypothesis Testing · Machine Learning · Data Visualisation · Business Communication
 
